@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   <meta charset="UTF-8">
+   <title>Document</title>
+   <script src="main.js"></script>
+   <style>
+   body {
+         margin: 10%;
+         font-weight: bold;
+   }
+
+   #tutto {
+    border: 1px solid red;
+    padding: 2px;
+    float: left;
+   }
+
+
+   .code{
+         display: inline-block;
+   }
+
+  </style>
+</head>
+<body>
+   <div id="tutto">
+     <label for="">Nome</label><br>
+     <input type="text" id="nome" ><br>
+     <label for="">Cognome</label><br>
+     <input type="text" id="cognome"><br>
+     <label for="">Anno</label><br>
+     <input type="text" id="anno"><br>
+     <label for="">Mese <i>(Es:01,02...11,12)</i></label><br>
+     <input type="text" id="mese"><br>
+     <label for="">Giorno</label><br>
+     <input type="text" id="giorno"><br>
+
+     <label for="">Sesso</label><br>
+         <select name="sesso" id="sesso">
+            <option value="M" >M</option>
+            <option value="F" id="fem">F</option>
+         </select><br>
+
+     <label for="">Codice del comune o dello stato estero di nascita(Cerca <a href="https://www1.agenziaentrate.gov.it/servizi/codici/ricerca/VisualizzaTabella.php?iniz=A&ArcName=COM-ICI" target="_blank">qua</a> )</label><br>
+     <input type="text" id="comune"><br><br>
+
+     <button onclick=cod()>Click here</button>
+
+         <div id="nume" class="code"></div>
+         <div id="surname" class="code"></div>
+         <div id="codice" class="code"></div>
+         <div id="place" class="code"></div>
+         <div id="contr" class="code"></div>
+      </div>
+
+</body>
+</html>

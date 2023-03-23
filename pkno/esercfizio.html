@@ -9,12 +9,13 @@
 
      <script>
       function f(b,p){
-         let ris=b;
+         
          if(p===1){
             return b;
          }
          else{
-            ris=ris*b;
+            let ris=b;
+            b=ris*b;
             f(b,p-1);
           return  console.log(ris);
          }

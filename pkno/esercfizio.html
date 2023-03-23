@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   <meta charset="UTF-8">
+   <title>Document</title>
+</head>
+<body>
+  <button onclick=f(2,4)>af</button>
+
+     <script>
+      function f(b,p){
+         let ris=1;
+         if(p===1){
+            return b;
+         }
+         else{
+            ris=ris*b;
+            f(b,p-1);
+          return  console.log(ris);
+         }
+      }
+   </script>
+</body>
+</html>

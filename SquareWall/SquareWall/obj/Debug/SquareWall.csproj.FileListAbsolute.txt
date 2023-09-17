@@ -1,0 +1,16 @@
+C:\Users\Hp\source\repos\SquareWall\SquareWall\bin\Debug\SquareWall.exe.config
+C:\Users\Hp\source\repos\SquareWall\SquareWall\bin\Debug\SquareWall.exe
+C:\Users\Hp\source\repos\SquareWall\SquareWall\bin\Debug\SquareWall.pdb
+C:\Users\Hp\source\repos\SquareWall\SquareWall\obj\Debug\SquareWall.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\SquareWall\SquareWall\obj\Debug\SquareWall.Form1.resources
+C:\Users\Hp\source\repos\SquareWall\SquareWall\obj\Debug\SquareWall.Properties.Resources.resources
+C:\Users\Hp\source\repos\SquareWall\SquareWall\obj\Debug\SquareWall.csproj.GenerateResource.cache
+C:\Users\Hp\source\repos\SquareWall\SquareWall\obj\Debug\SquareWall.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\SquareWall\SquareWall\obj\Debug\SquareWall.exe
+C:\Users\Hp\source\repos\SquareWall\SquareWall\obj\Debug\SquareWall.pdb
+C:\Users\Hp\source\repos\SquareWall\SquareWall\bin\Debug\en\SquareWall.resources.dll
+C:\Users\Hp\source\repos\SquareWall\SquareWall\obj\Debug\SquareWall.Form1.en.resources
+C:\Users\Hp\source\repos\SquareWall\SquareWall\obj\Debug\en\SquareWall.resources.dll
+C:\Users\Hp\source\repos\SquareWall\SquareWall\obj\Debug\SquareWall.Form2.resources
+C:\Users\Hp\source\repos\SquareWall\SquareWall\obj\Debug\SquareWall.Form3.resources
+C:\Users\Hp\source\repos\SquareWall\SquareWall\obj\Debug\SquareWall.Form4.resources
